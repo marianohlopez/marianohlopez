@@ -4,7 +4,10 @@
 
 
 
-### Hi there 👋
+### ¡Hola! Mi nombre es Mariano López 👋
+
+Soy desarrollador Front-End y actualmente me encuentro capacitándome en backend. 
+Tengo conocimiéntos en HTML | CSS | JavaScript | React | GitHub | Git | Sass | Bootstrap | Firebase |.
 
 <!--
 **marianohlopez/marianohlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
