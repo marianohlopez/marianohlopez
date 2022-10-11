@@ -15,12 +15,33 @@ Tengo conocimiéntos en HTML | CSS | JavaScript | React | GitHub | Git | Sass | 
 
 ## <a href="https://github.com/marianohlopez/Ecommerce-Lopez" target="_blank">E-commerce Maverick (tienda de instrumentos musicales)</a>
 
-![Recording 2022-10-04 at 11 16 58](https://user-images.githubusercontent.com/105325211/193859228-f5dcbe9d-4690-4941-9847-46fc7e6eeaee.gif)
-
-## Introducción
-
 E-commerce realizado con react js basado en una tienda de instrumentos musicales, conectado a firebase para emular la base de datos y generar las ordenes de compra.
 
+![Recording 2022-10-04 at 11 16 58](https://user-images.githubusercontent.com/105325211/193859228-f5dcbe9d-4690-4941-9847-46fc7e6eeaee.gif)
+
+<hr/>
+
+## <a href="https://github.com/marianohlopez/Comercio-Zingueria" target="_blank">Comercio-Zingueria</a>
+
+E-commerce desarrollado integramente con JavaScript Vanilla, conectado a la api de Mercado Pago para finalizar la compra de productos.
+
+[Untitled.webm](https://user-images.githubusercontent.com/105325211/194091231-5c49b379-6ba1-4ab2-92dc-297a89996882.webm)
+
+<hr/>
+
+## <a href="https://github.com/marianohlopez/calculadora-react" target="_blank">Calculadora</a>
+
+Calculadora realizada con React.js, para la cuál utilicé las librerias mathjs, react y sweetalert2.
+
+![Recording 2022-10-05 at 10 27 56](https://user-images.githubusercontent.com/105325211/194073116-56b1603d-f7b6-44a1-90e3-53a9df120dfb.gif)
+
+<hr/>
+
+## <a href="https://github.com/marianohlopez/Proyecto-web" target="_blank">Centro de yoga (sitio web)</a>
+
+Sitio web desarrollado para un centro de yoga de forma free-lance. En este caso se utilizó html, css, sass, y bootstrap.
+
+![imagenYoga](https://user-images.githubusercontent.com/105325211/195097308-9f7c8bdf-8ef9-445a-a889-f3893f44fd9c.jpg)
 
 <!--
 **marianohlopez/marianohlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
