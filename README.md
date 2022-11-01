@@ -21,6 +21,14 @@ E-commerce realizado con react js basado en una tienda de instrumentos musicales
 
 <hr/>
 
+## <a href="https://github.com/marianohlopez/weather-app" target="_blank">Aplicación del clima</a>
+
+Aplicación realizada con react js para saber el reporte climático de cualquier ciudad del mundo. Se utilizaron las API de OpenWeatherMap y GeoDb cities.
+
+![Recording 2022-11-01 at 09 53 42](https://user-images.githubusercontent.com/105325211/199241260-7f6f01f9-c07c-4ba9-859b-a9e7028b339b.gif)
+
+<hr/>
+
 ## <a href="https://github.com/marianohlopez/Comercio-Zingueria" target="_blank">Comercio-Zingueria</a>
 
 E-commerce desarrollado integramente con JavaScript Vanilla, conectado a la api de Mercado Pago para finalizar la compra de productos.
