@@ -7,7 +7,7 @@
 ### ¡Hola! Mi nombre es Mariano López 👋
 
 Soy desarrollador Front-End y actualmente me encuentro capacitándome en backend. 
-Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | React.js | Node.js |GitHub | Git | Bootstrap | Firebase |.
+Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | React.js | Node.JS.(API REST, Express, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, MariaDB, SQLite, MongoDB, Firebase | .
 
 <hr/>
 
