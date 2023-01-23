@@ -37,6 +37,14 @@ E-commerce desarrollado integramente con JavaScript Vanilla, conectado a la api 
 
 <hr/>
 
+## <a href="https://github.com/marianohlopez/currency-converter" target="_blank">Conversor de monedas</a>
+
+Conversor de divisas realizado con React JS. Se utilizó la API de Fixer.
+
+![Recording 2023-01-23 at 13 07 15](https://user-images.githubusercontent.com/105325211/214098125-b7f0143b-d611-4412-96a6-70151b258c61.gif)
+
+<hr/>
+
 ## <a href="https://github.com/marianohlopez/calculadora-react" target="_blank">Calculadora</a>
 
 Calculadora realizada con React.js, para la cuál utilicé las librerias mathjs, react y sweetalert2.
