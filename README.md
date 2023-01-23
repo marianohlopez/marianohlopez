@@ -33,7 +33,7 @@ Aplicación realizada con react js para saber el reporte climático de cualquier
 
 E-commerce desarrollado integramente con JavaScript Vanilla, conectado a la api de Mercado Pago para finalizar la compra de productos.
 
-[Untitled.webm](https://user-images.githubusercontent.com/105325211/194091231-5c49b379-6ba1-4ab2-92dc-297a89996882.webm)
+![Recording 2023-01-23 at 14 59 16-min](https://user-images.githubusercontent.com/105325211/214116468-8f768fb8-4e01-4edf-a393-8f89056fdab2.gif)
 
 <hr/>
 
