@@ -17,7 +17,7 @@ Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | React.js | Node.JS.(API
 
 Sitio realizado en equipo de forma freelance a través de Coderhouse.
 
-![64109c03c406f915542701](https://user-images.githubusercontent.com/105325211/225067713-6937bc5f-fae7-487b-b7da-6741f962acc0.gif)
+![6410b337a7898534803901-min](https://user-images.githubusercontent.com/105325211/225094444-8291b312-eb31-4ddb-a064-23f959a4bc5c.gif)
 
 <hr/>
 
