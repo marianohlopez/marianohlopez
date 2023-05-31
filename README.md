@@ -57,7 +57,7 @@ E-commerce desarrollado integramente con JavaScript Vanilla, conectado a la api 
 
 Conversor de divisas realizado con React JS. Conectado a la API de Fixer para obtener los valores de las distintas monedas.
 
-![Recording 2023-01-23 at 13 07 15](https://user-images.githubusercontent.com/105325211/214098125-b7f0143b-d611-4412-96a6-70151b258c61.gif)
+![currency](https://github.com/marianohlopez/marianohlopez/assets/105325211/216e86a0-dff3-43e2-a705-811747066056)
 
 <hr/>
 
