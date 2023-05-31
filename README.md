@@ -33,7 +33,7 @@ Sitio realizado en equipo de forma freelance a través de Coderhouse.
 
 E-commerce realizado con react js basado en una tienda de instrumentos musicales, conectado a firebase para emular la base de datos y generar las ordenes de compra.
 
-![Recording 2022-10-04 at 11 16 58](https://user-images.githubusercontent.com/105325211/193859228-f5dcbe9d-4690-4941-9847-46fc7e6eeaee.gif)
+![maverick](https://github.com/marianohlopez/marianohlopez/assets/105325211/b87e1925-f98f-4f36-ba6a-6843897971cc)
 
 <hr/>
 
