@@ -7,7 +7,7 @@
 ### ¡Hola! Mi nombre es Mariano López 👋
 
 Soy desarrollador Full stack con experiencia en proyectos freelance y docencia. 
-Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | React.js | Node.JS.(API REST, Express, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, MariaDB, SQLite, MongoDB, Firebase | .
+Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | Python | React.js | Node.JS.(API REST, Express, GraphQL, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, SQLite, MongoDB, Firebase | .
 
 <hr/>
 
@@ -25,7 +25,7 @@ Backend de una aplicación de e-commerce para poder vender productos de un rubro
 
 Sitio realizado en equipo de forma freelance a través de Coderhouse.
 
-![6410b337a7898534803901-min](https://user-images.githubusercontent.com/105325211/225094444-8291b312-eb31-4ddb-a064-23f959a4bc5c.gif)
+![relay](https://github.com/marianohlopez/marianohlopez/assets/105325211/edec6d99-34b0-4095-b9be-c3f09230b565)
 
 <hr/>
 
