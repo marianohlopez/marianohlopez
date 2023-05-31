@@ -6,7 +6,7 @@
 
 ### ¡Hola! Mi nombre es Mariano López 👋
 
-Soy desarrollador Front-End y actualmente me encuentro capacitándome en backend. 
+Soy desarrollador Full stack con experiencia en proyectos freelance y docencia. 
 Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | React.js | Node.JS.(API REST, Express, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, MariaDB, SQLite, MongoDB, Firebase | .
 
 <hr/>
