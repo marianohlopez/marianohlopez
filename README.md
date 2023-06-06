@@ -17,7 +17,7 @@ Tengo conocimiéntos en HTML | CSS | Sass | JavaScript | Python | React.js | Nod
 
 Backend de una aplicación de e-commerce para poder vender productos de un rubro a elección.
 
-![backend](https://github.com/marianohlopez/marianohlopez/assets/105325211/04015115-6fd5-4c28-b037-2ab5232cbf22)
+<a href="https://github.com/marianohlopez/backend-ecommerce" target="_blank">![backend](https://github.com/marianohlopez/marianohlopez/assets/105325211/04015115-6fd5-4c28-b037-2ab5232cbf22)</a>
 
 <hr/>
 
