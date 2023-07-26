@@ -13,7 +13,15 @@ Tengo conocimientos en HTML | CSS | Sass | Bootstrap, Tailwind | JavaScript | Py
 
 <h1 align="center"> Proyectos </h1>
 
-## <a href="https://github.com/marianohlopez/backend-ecommerce" target="_blank">Backend - Ecommerce</a>
+## <a href="https://github.com/marianohlopez/app-notes" target="_blank">App-Notes</a>
+
+Aplicación para guardar, editar y gestionar tus notas de manera sencilla y eficiente.
+
+![app-notes](https://github.com/marianohlopez/marianohlopez/assets/105325211/b843f22b-dc7b-4dc0-b983-65c797f632e6)
+
+<hr/>
+
+## <a href="https://github.com/marianohlopez/backend-ecommerce" target="_blank">Backend-Ecommerce</a>
 
 Backend de una aplicación de e-commerce para poder vender productos de un rubro a elección.
 
