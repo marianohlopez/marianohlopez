@@ -7,7 +7,7 @@
 ### ¡Hola! Mi nombre es Mariano López 👋
 
 Soy desarrollador Full stack con experiencia en proyectos freelance y docencia. 
-Tengo conocimientos en HTML | CSS | Sass | Bootstrap, Tailwind | JavaScript | Python | React.js | Node.JS.(API REST, Express, GraphQL, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, SQLite, MongoDB, Firebase | .
+Tengo conocimientos en HTML | CSS | Sass | Bootstrap, Tailwind | Javascript | Typescript | Python | React.js | Node.JS.(API REST, Express, GraphQL, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, SQLite, MongoDB, Firebase | .
 
 <hr/>
 
