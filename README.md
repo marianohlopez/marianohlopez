@@ -49,7 +49,7 @@ E-commerce realizado con react js basado en una tienda de instrumentos musicales
 
 Aplicación realizada con React para buscar y conocer a los distintos personajes de la serie animada, se utilizó Graphql y la api de Rick & Morty.
 
-![Recording 2024-01-23 at 13 50 16](https://github.com/marianohlopez/marianohlopez/assets/105325211/1bdfc081-67b7-49ba-8fc9-d14a8b50cfbc)
+![Recording 2024-01-23 at 13 50 16-min](https://github.com/marianohlopez/marianohlopez/assets/105325211/32a5cc99-6ed7-4e41-9efe-e64c89da22b0)
 
 <hr/>
 
