@@ -45,6 +45,14 @@ E-commerce realizado con react js basado en una tienda de instrumentos musicales
 
 <hr/>
 
+## <a href="https://github.com/marianohlopez/rick-morty" target="_blank">Rick & Morty App</a>
+
+Aplicación realizada con React para buscar y conocer a los distintos personajes de la serie animada, se utilizó Graphql y la api de Rick & Morty.
+
+![Recording 2024-01-23 at 13 50 16](https://github.com/marianohlopez/marianohlopez/assets/105325211/1bdfc081-67b7-49ba-8fc9-d14a8b50cfbc)
+
+<hr/>
+
 ## <a href="https://github.com/marianohlopez/weather-app" target="_blank">Aplicación del clima</a>
 
 Aplicación realizada con react js para saber el reporte climático de cualquier ciudad del mundo. Se utilizaron las API de OpenWeatherMap y GeoDb cities.
