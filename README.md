@@ -6,8 +6,8 @@
 
 ### ¡Hola! Mi nombre es Mariano López 👋
 
-Soy desarrollador Full stack con experiencia en proyectos freelance y docencia. 
-Tengo conocimientos en HTML | CSS | Sass | Bootstrap, Tailwind | Javascript | Typescript | Python | React.js | Node.JS.(API REST, Express, GraphQL, Socket.io, ejs-pug-hbs) | Git, GitHub | SQL, MySQL, SQLite, MongoDB, Firebase | .
+Soy desarrollador Full stack con experiencia en análisis de datos, docencia y proyectos freelance. 
+Tengo conocimientos en HTML | CSS | Sass | Bootstrap, Tailwind | Javascript | C# |Typescript | Python | React.js | Node.JS.(API REST, Express, GraphQL, Socket.io, ejs-pug-hbs) | Git, GitHub | MySQL, SQL Server, MongoDB, Firebase | .
 
 <hr/>
 
@@ -25,7 +25,7 @@ Aplicación para guardar, editar y gestionar tus notas de manera sencilla y efic
 
 Aplicación de escritorio realizada en colaboración para administrar un club deportivo.
 
-![SportClub (1)](https://github.com/user-attachments/assets/f26f1b3d-0b28-4f2e-a4cc-e4f15cda199c)
+![SportClub](https://github.com/user-attachments/assets/55f33a3c-0053-474c-a18e-ac1fec33085a)
 
 <hr/>
 
