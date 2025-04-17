@@ -21,6 +21,14 @@ Aplicación para guardar, editar y gestionar tus notas de manera sencilla y efic
 
 <hr/>
 
+## <a href="https://github.com/marianohlopez/ClinicaSePrice" target="_blank">ClinicaSePrice</a>
+
+Aplicación de escritorio realizada en colaboración para administrar una clínica.
+
+![ClinicaSePrice](https://github.com/user-attachments/assets/bcd9b571-518f-43de-b2a0-d48100d7d321)
+
+<hr/>
+
 ## <a href="https://github.com/tommyHellraiser/SportsClubProject" target="_blank">SportsClubProject</a>
 
 Aplicación de escritorio realizada en colaboración para administrar un club deportivo.
@@ -77,6 +85,12 @@ E-commerce desarrollado integramente con JavaScript Vanilla, conectado a la api 
 
 <hr/>
 
+## <a href="https://github.com/marianohlopez/Proyecto-web" target="_blank">Centro de yoga (sitio web)</a>
+
+Sitio web desarrollado para un centro de yoga de forma free-lance. En este caso se utilizó html, css, sass, y bootstrap.
+
+![imagenYoga](https://user-images.githubusercontent.com/105325211/195097308-9f7c8bdf-8ef9-445a-a889-f3893f44fd9c.jpg)
+
 ## <a href="https://github.com/marianohlopez/currency-converter" target="_blank">Conversor de monedas</a>
 
 Conversor de divisas realizado con React JS. Conectado a la API de Fixer para obtener los valores de las distintas monedas.
@@ -92,12 +106,6 @@ Calculadora realizada con React.js, para la cuál utilicé las librerias mathjs,
 ![Recording 2022-10-05 at 10 27 56](https://user-images.githubusercontent.com/105325211/194073116-56b1603d-f7b6-44a1-90e3-53a9df120dfb.gif)
 
 <hr/>
-
-## <a href="https://github.com/marianohlopez/Proyecto-web" target="_blank">Centro de yoga (sitio web)</a>
-
-Sitio web desarrollado para un centro de yoga de forma free-lance. En este caso se utilizó html, css, sass, y bootstrap.
-
-![imagenYoga](https://user-images.githubusercontent.com/105325211/195097308-9f7c8bdf-8ef9-445a-a889-f3893f44fd9c.jpg)
 
 <!--
 **marianohlopez/marianohlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
