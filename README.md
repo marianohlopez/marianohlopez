@@ -7,7 +7,7 @@
 ### ¡Hola! Mi nombre es Mariano López 👋
 
 Soy Desarrollador de Software con experiencia en análisis e ingeniería de datos, docencia y proyectos freelance. 
-Tengo conocimientos en HTML | CSS | Sass | Bootstrap, Tailwind | Javascript | C# |Typescript | Python | React.js | Node.JS.(API REST, Express, GraphQL, Socket.io, ejs-pug-hbs) | Git, GitHub | MySQL, SQL Server, MongoDB, Firebase | .
+Tengo conocimientos en MySQL, SQL Server, MongoDB, Firebase | Power BI, Tableau | Python | Javascript | C# |Typescript | React.js | Node.JS | Git, GitHub.
 
 <hr/>
 
